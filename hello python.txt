@@ -1,1 +1,3 @@
 xin chao python minh la hung day
+
+hom nay la ngay dau tien minh su dung git day
